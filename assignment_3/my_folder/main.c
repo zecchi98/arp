@@ -28,7 +28,7 @@ int main()
 	
 	
 	bzero(MY_IP_STR,64);
-	strcpy(MY_IP_STR,"127.0.0.1");
+	strcpy(MY_IP_STR,"52.233.227.134");
 	printf("\n\n");
 	/*Steps for node ZER0:
 	1.	After checking that we are the node zero (*hsh_imfirst(MY_IP_STR)*)…
