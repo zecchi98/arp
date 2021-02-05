@@ -3,7 +3,7 @@
 // the IP address table
 iptab_addr_t __ip_table[ __IP_TABLE_LEN ] =
 {
-    { "127.0.0.1", __NOD_AVAILABLE },
+    { "52.233.227.134", __NOD_AVAILABLE },
     { "0.0.0.0", __NOD_AVAILABLE },
     { "255.255.0.255", __NOD_AVAILABLE },
 };
